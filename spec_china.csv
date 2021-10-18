@@ -1,0 +1,40 @@
+Model,SeriesID,SeriesName,Frequency,Block1-Global,Block2-Real,Block3-Finance,Block4-Sentiment,Block5-Price,Transformation,Units,Category
+1,IAV,Industrial Added Value,m,1,1,0,0,0,chg,%,Industry
+0,CINV,Current Period Inventory,m,1,1,0,0,0,chg,%,Industry
+1,EXPDEL,Export Delivery Value,m,1,1,0,0,0,chg,%,Industry
+1,PROFIT,Total Profits,m,1,1,0,0,0,chg,%,Industry
+1,STEPRO,Steel Production,m,1,1,0,0,0,chg,%,Industry
+1,FREITURN,Total Freight Turnovers,m,1,1,0,0,0,chg,%,Industry
+1,ELEPRO,Electricity Production,m,1,1,0,0,0,chg,%,Industry
+1,FREIVOL,Total Freight Volume,m,1,1,0,0,0,chg,%,Industry
+1,INVFIX,Investment in Fixed Asset,m,1,1,0,0,0,acc,%,Investment
+1,INVRSD,Investment in real estate development,m,1,1,0,0,0,acc,%,Investment
+1,INVPFA,Investment Amount of Private Fixed Assets,m,1,1,0,0,0,acc,%,Investment
+1,PFREV,Public Finance Revenue,m,1,0,0,0,0,chg,%,Finance
+1,PFEXP,Public Finance Expenditure,m,1,0,0,0,0,chg,%,FInance
+1,IMPEXP,Import and export amount,m,1,1,0,0,0,chg,%,Foreign investment and trade
+1,BALANCE,Balance of Trade,m,1,1,0,0,0,chg,%,Foreign investment and trade
+1,RSAFS,Retail Sales,m,1,1,0,0,0,chg,%,Domestic Trade
+1,VELSAL,Vehicle Sales,m,1,1,0,0,0,chg,%,Domestic Trade
+1,CPI,Consumer Price Index,m,1,0,0,0,1,chg,%,Prices
+1,CPINFO,CPI: Non-Food,m,1,0,0,0,1,chg,%,Prices
+1,RPI,Retail Price Index,m,1,0,0,0,1,chg,%,Prices
+1,PPI,Producer Price Index,m,1,0,0,0,1,chg,%,Prices
+1,REPI270,Second Hand Housing Price Index of 70 Large and Medium-sized Cities?,m,1,0,0,0,1,chg,%,Prices
+1,REPI170,Price Index of New Residential Buildings in 70 Large and Medium-sized Cities,m,1,0,0,0,1,chg,%,Prices
+1,PMI,Purchasing Managers' Index,m,1,0,0,1,0,lgc,%,Surveys
+1,PMIM,PMI:Manufacture,m,1,0,0,1,0,lgc,%,Surveys
+1,PMINO,PMI:New Order,m,1,0,0,1,0,lgc,%,Surveys
+1,PMINEO,PMI: New Export Order,m,1,0,0,1,0,lgc,%,Surveys
+1,PMIOIH,PMI:Order in Hand,m,1,0,0,1,0,lgc,%,Surveys
+1,PMIPVI,PMI:Product Volume Inventory,m,1,0,0,1,0,lgc,%,Surveys
+1,PMIOQ,PMI:Order Quantity,m,1,0,0,1,0,lgc,%,Surveys
+1,PMIIMP,PMI: Import,m,1,0,0,1,0,lgc,%,Surveys
+1,PMIPMRM,PMI: Price of Main Raw Materials ,m,1,0,0,1,0,lgc,%,Surveys
+1,PMIRMI,PMI:Raw Material Inventory,m,1,0,0,1,0,lgc,%,Surveys
+1,PMIE,PMI:Employees,m,1,0,0,1,0,lgc,%,Surveys
+1,PMISDT,PMI:Supplier Delivery Time,m,1,0,0,1,0,lgc,%,Surveys
+1,M2,Broad money,m,1,0,1,0,0,chg,%,Banks and Currency
+1,Loan,New Loans,m,1,0,1,0,0,lgc,"RMB, 100millions",Banks and Currency
+1,SOFIN,Social financing scale,m,1,0,1,0,0,lgc,"RMB, 100millions",Banks and Currency
+1,RGDP,Real Gross Domestic Income,q,1,1,0,0,0,qua,%,National Acoounts
